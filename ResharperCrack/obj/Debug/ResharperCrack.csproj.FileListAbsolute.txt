@@ -1,0 +1,4 @@
+C:\Sources\ResharperCrack\ResharperCrack\bin\Debug\ResharperCrack.exe
+C:\Sources\ResharperCrack\ResharperCrack\bin\Debug\ResharperCrack.pdb
+C:\Sources\ResharperCrack\ResharperCrack\obj\Debug\ResharperCrack.exe
+C:\Sources\ResharperCrack\ResharperCrack\obj\Debug\ResharperCrack.pdb
